@@ -1,7 +1,0 @@
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\b\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\b\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\b\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\b\komodoCoffee_UnitTest\bin\Debug\komodoCoffee_UnitTest.dll
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\komodoCoffee_UnitTest\Debug\komodoCoffee_UnitTest.csproj.CoreCompileInputs.cache
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\komodoCoffee_UnitTest\Debug\komodoCoffee_UnitTest.csproj.CopyComplete
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\komodoCoffee_UnitTest\Debug\komodoCoffee_UnitTest.dll

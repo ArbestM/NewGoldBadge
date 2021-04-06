@@ -1,5 +1,0 @@
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\b\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoClaim_Repository\Debug\KomodoClaim_Repository.csprojAssemblyReference.cache
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoClaim_Repository\Debug\KomodoClaim_Repository.csproj.CoreCompileInputs.cache
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoClaim_Repository\Debug\KomodoClaim_Repository.csproj.CopyComplete
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoClaim_Repository\Debug\ClassLibrary1.dll

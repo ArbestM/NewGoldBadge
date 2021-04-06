@@ -1,2 +1,0 @@
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoCoffe_Console\Debug\KomodoCoffe_Console.csprojAssemblyReference.cache
-C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoCoffe_Console\Debug\KomodoCoffe_Console.csproj.CoreCompileInputs.cache
