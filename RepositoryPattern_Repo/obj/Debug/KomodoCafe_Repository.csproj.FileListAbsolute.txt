@@ -1,0 +1,6 @@
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\bin\Debug\RepositoryPattern_Repo.dll
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\bin\Debug\RepositoryPattern_Repo.pdb
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\obj\Debug\KomodoCafe_Repository.csprojAssemblyReference.cache
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\obj\Debug\KomodoCafe_Repository.csproj.CoreCompileInputs.cache
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\obj\Debug\RepositoryPattern_Repo.dll
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\obj\Debug\RepositoryPattern_Repo.pdb

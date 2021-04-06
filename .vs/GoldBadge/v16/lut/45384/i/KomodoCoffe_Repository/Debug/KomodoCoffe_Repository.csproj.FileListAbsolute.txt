@@ -1,0 +1,5 @@
+C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\b\RepositoryPattern_Repo\bin\Debug\RepositoryPattern_Repo.dll
+C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoCoffe_Repository\Debug\KomodoCoffe_Repository.csprojAssemblyReference.cache
+C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoCoffe_Repository\Debug\KomodoCoffe_Repository.csproj.CoreCompileInputs.cache
+C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoCoffe_Repository\Debug\KomodoCoffe_Repository.csproj.CopyComplete
+C:\Users\New User\Desktop\GoldBadge\.vs\GoldBadge\v16\lut\0\i\KomodoCoffe_Repository\Debug\RepositoryPattern_Repo.dll

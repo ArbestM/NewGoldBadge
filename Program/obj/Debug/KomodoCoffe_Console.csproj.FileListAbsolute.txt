@@ -1,0 +1,72 @@
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\Program.exe.config
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\Program.exe
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\Program.pdb
+D:\Agil I.T Tranining\GoldBadge\Program\obj\Debug\KomodoCoffe_Console.csprojAssemblyReference.cache
+D:\Agil I.T Tranining\GoldBadge\Program\obj\Debug\KomodoCoffe_Console.csproj.CoreCompileInputs.cache
+D:\Agil I.T Tranining\GoldBadge\Program\obj\Debug\Program.exe
+D:\Agil I.T Tranining\GoldBadge\Program\obj\Debug\Program.pdb
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\RepositoryPattern_Repo.dll
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\RepositoryPattern_Repo.pdb
+D:\Agil I.T Tranining\GoldBadge\Program\obj\Debug\KomodoCoffe_Console.csproj.CopyComplete
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\BouncyCastle.Crypto.dll
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\NPOI.dll
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\NPOI.OOXML.dll
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\BouncyCastle.Crypto.xml
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\NPOI.xml
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\NPOI.OOXML.xml
+D:\Agil I.T Tranining\GoldBadge\Program\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\Program.exe.config
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\Program.exe
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\Program.pdb
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.Runtime.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\NPOI.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\NPOI.OOXML.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\RepositoryPattern_Repo.dll
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\RepositoryPattern_Repo.pdb
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\BouncyCastle.Crypto.xml
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\NPOI.xml
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\NPOI.OOXML.xml
+C:\Gold_BadgeChallenge\GoldBadge\Program\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Gold_BadgeChallenge\GoldBadge\Program\obj\Debug\KomodoCoffe_Console.csprojAssemblyReference.cache
+C:\Gold_BadgeChallenge\GoldBadge\Program\obj\Debug\KomodoCoffe_Console.csproj.CoreCompileInputs.cache
+C:\Gold_BadgeChallenge\GoldBadge\Program\obj\Debug\KomodoCoffe_Console.csproj.CopyComplete
+C:\Gold_BadgeChallenge\GoldBadge\Program\obj\Debug\Program.exe
+C:\Gold_BadgeChallenge\GoldBadge\Program\obj\Debug\Program.pdb

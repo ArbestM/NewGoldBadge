@@ -1,0 +1,6 @@
+C:\Gold_BadgeChallenge\GoldBadge\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Gold_BadgeChallenge\GoldBadge\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Gold_BadgeChallenge\GoldBadge\ClassLibrary1\obj\Debug\KomodoClaim_Repository.csprojAssemblyReference.cache
+C:\Gold_BadgeChallenge\GoldBadge\ClassLibrary1\obj\Debug\KomodoClaim_Repository.csproj.CoreCompileInputs.cache
+C:\Gold_BadgeChallenge\GoldBadge\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Gold_BadgeChallenge\GoldBadge\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

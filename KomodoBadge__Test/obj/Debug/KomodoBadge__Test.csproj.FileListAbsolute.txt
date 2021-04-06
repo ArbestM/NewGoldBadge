@@ -1,0 +1,16 @@
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\obj\Debug\KomodoBadge__Test.csprojAssemblyReference.cache
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\obj\Debug\KomodoBadge__Test.csproj.CoreCompileInputs.cache
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\KomodoBadge__Test.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\KomodoBadge__Test.pdb
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\KomodoBadge_Repository.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\KomodoBadge_Repository.pdb
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\obj\Debug\KomodoBadge__Test.csproj.CopyComplete
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\obj\Debug\KomodoBadge__Test.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge__Test\obj\Debug\KomodoBadge__Test.pdb

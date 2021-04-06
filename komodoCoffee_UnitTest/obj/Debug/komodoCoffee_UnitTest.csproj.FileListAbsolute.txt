@@ -1,0 +1,16 @@
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\komodoCoffee_UnitTest.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\komodoCoffee_UnitTest.pdb
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\RepositoryPattern_Repo.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\RepositoryPattern_Repo.pdb
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\obj\Debug\komodoCoffee_UnitTest.csprojAssemblyReference.cache
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\obj\Debug\komodoCoffee_UnitTest.csproj.CoreCompileInputs.cache
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\obj\Debug\komodoCoffee_UnitTest.csproj.CopyComplete
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\obj\Debug\komodoCoffee_UnitTest.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoCoffee_UnitTest\obj\Debug\komodoCoffee_UnitTest.pdb

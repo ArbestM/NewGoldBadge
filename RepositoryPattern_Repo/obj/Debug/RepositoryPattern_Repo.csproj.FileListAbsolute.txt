@@ -1,0 +1,2 @@
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\obj\Debug\RepositoryPattern_Repo.csprojAssemblyReference.cache
+D:\Agil I.T Tranining\GoldBadge\RepositoryPattern_Repo\obj\Debug\RepositoryPattern_Repo.csproj.CoreCompileInputs.cache

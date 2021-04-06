@@ -1,0 +1,10 @@
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\bin\Debug\komodoClaim_Console.exe.config
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\bin\Debug\komodoClaim_Console.exe
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\bin\Debug\komodoClaim_Console.pdb
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\bin\Debug\ClassLibrary1.dll
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\bin\Debug\ClassLibrary1.pdb
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\obj\Debug\komodoClaim_Console.csprojAssemblyReference.cache
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\obj\Debug\komodoClaim_Console.csproj.CoreCompileInputs.cache
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\obj\Debug\komodoClaim_Console.csproj.CopyComplete
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\obj\Debug\komodoClaim_Console.exe
+C:\Gold_BadgeChallenge\GoldBadge\komodoClaim_Console\obj\Debug\komodoClaim_Console.pdb

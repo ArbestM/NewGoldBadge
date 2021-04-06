@@ -1,0 +1,20 @@
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Console.exe.config
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Console.exe
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Console.pdb
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Repository.dll
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Repository.pdb
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.csprojAssemblyReference.cache
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.csproj.CoreCompileInputs.cache
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.csproj.CopyComplete
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.exe
+C:\Users\New User\Desktop\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.pdb
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Console.exe.config
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Console.exe
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Console.pdb
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Repository.dll
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\bin\Debug\KomodoBadge_Repository.pdb
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.csprojAssemblyReference.cache
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.csproj.CoreCompileInputs.cache
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.csproj.CopyComplete
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.exe
+C:\Gold_BadgeChallenge\GoldBadge\KomodoBadge_Console\obj\Debug\KomodoBadge_Console.pdb
